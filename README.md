@@ -9,6 +9,6 @@ Nutrition assistant Application
 
 [Sargeetha A]
 
-[sujithra M]
+[Sujithra M]
 
 [Jeevitha M]
