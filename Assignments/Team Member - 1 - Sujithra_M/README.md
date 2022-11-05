@@ -20,3 +20,12 @@ Assignment - 3   (completed)
 3.Upload a css page to the object storage and use the same page in your HTML code.
 4.Design a chatbot using IBM Watson assistant for hospital. Ex: User comes with query to know the branches for that hospital in your city. Submit the web URL of that chat bot as a assignment. 
 5.Create Watson assistant service with 10 steps and use 3 conditions in it. Load that script in HTML page.
+
+
+
+Assignment Kubernetes / Docker 
+
+1.Pull an Image from docker hub and run it in docker playground. 
+2.Create a docker file for the jobportal application and deploy it in Docker desktop application. 
+3.Create a IBM container registry and deploy helloworld app or jobportalapp. 
+4.Create a Kubernetes cluster in IBM cloud and deploy helloworld image or jobportal image and also expose the same app to run in nodeport.
