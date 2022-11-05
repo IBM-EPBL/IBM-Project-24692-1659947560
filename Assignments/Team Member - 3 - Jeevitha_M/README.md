@@ -5,7 +5,7 @@ Assignment - 1  (completed)
 1. Create registration page in html with username, email and phone number and by using POST method display it in next html page.
 2. Develop a flask program which should contain at least 5 packages used from pypi.org.
 
-Assignment - 2
+Assignment - 2   (completed)
 
 1. Create User table with user with email, username, roll number, password.
 2. Perform UPDATE,DELETE Queries with user table
@@ -13,7 +13,7 @@ Assignment - 2
 4. Create a flask app with registration page, login page and welcome page. By default load the registration page once the user enters all the fields store the data in database and navigate to login page authenticate user username and password. If the user is valid show the welcome page.
 
 
-Assignment - 3
+Assignment - 3   (completed)
 
 1.Create a Bucket in IBM object storage. 
 2.Upload an 5 images  to ibm object storage and make it public. write html code to displaying all the 5 images. 
