@@ -22,7 +22,7 @@ Assignment - 3   (completed)
 5.Create Watson assistant service with 10 steps and use 3 conditions in it. Load that script in HTML page.
 
 
-Assignment Kubernetes / Docker 
+Assignment Kubernetes / Docker (completed)
 
 1.Pull an Image from docker hub and run it in docker playground. 
 2.Create a docker file for the jobportal application and deploy it in Docker desktop application. 
