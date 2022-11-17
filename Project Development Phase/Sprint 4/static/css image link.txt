@@ -1,0 +1,10 @@
+admin.css  -- s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/admin.css
+
+
+dashboard.css  -- s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/dashboard.css
+
+
+forget.css  -- s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/forget.css
+
+
+index.css  --  s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/index.css

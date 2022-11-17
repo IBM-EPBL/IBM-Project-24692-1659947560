@@ -1,0 +1,26 @@
+
+admin  -- s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/admin.png
+
+
+admin_panel -- s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/admin_panel.png
+
+
+cardiogram --s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/cardiogram.png
+
+
+food -- s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/food.png
+
+
+home --s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/home.png
+
+
+info --s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/info.png
+
+
+login--s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/login.png
+
+
+signup --s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/sign-up.png
+
+
+user --s3.jp-tok.cloud-object-storage.appdomain.cloud/nutribucket/src/user.png
