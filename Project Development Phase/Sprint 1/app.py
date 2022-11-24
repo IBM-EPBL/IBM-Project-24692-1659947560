@@ -4,7 +4,7 @@ import ibm_db
 import sendgrid
 from sendgrid.helpers.mail import Mail, Email, To, Content
 
-SENDGRID_API_KEY = "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"  # sendgrid
+SENDGRID_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # sendgrid
 
 
 conn = ibm_db.connect(
