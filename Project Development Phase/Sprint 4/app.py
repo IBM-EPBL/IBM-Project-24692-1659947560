@@ -28,7 +28,7 @@ stub = service_pb2_grpc.V2Stub(channel)
 metadata = (("authorization", f"Key {YOUR_CLARIFAI_API_KEY}"),)
 
 # sendgrid
-SENDGRID_API_KEY = "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"
+SENDGRID_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # rapid API
 url = "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/complexSearch"
