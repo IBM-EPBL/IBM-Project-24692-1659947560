@@ -21,7 +21,7 @@ print(conn)
 
 
 # sendgrid
-SENDGRID_API_KEY = "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"
+SENDGRID_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 app = Flask(__name__)
 
